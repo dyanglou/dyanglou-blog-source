@@ -15,9 +15,9 @@ highlight_theme: normal
 
 menu:
   博客: /
-  目录: /categories
+  # 目录: /categories
   # archives: /archives
-  标签: /tags
+  # 标签: /tags
   关于: /about
   GitHub: https://github.com/dyanglou
 
