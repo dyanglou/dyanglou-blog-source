@@ -15,7 +15,7 @@
   font-size: 0.85em;
 }
  pre, code {
-  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
+  font-family: Monaco, "Source Code Pro", Consolas, Menlo, Consolas, monospace;
 }
  code {
   background: #eee;
@@ -74,7 +74,7 @@
 }
  .gist .gist-file {
   border: none;
-  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
+  font-family: Monaco, "Source Code Pro", Consolas, Menlo, Consolas, monospace;
   margin: 0;
 }
  .gist .gist-file .gist-data {
